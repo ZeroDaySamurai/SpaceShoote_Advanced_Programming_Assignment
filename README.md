@@ -5,4 +5,6 @@ This it is a group assignment for Advanced Programming at the Namibian Universit
 
 ### Students
 - 219079714 Hubert Mouton 
+- 218081030 Hoosain Shakeel
+- 217029272 Sakaria Ndadi
 
